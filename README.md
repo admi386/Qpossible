@@ -24,6 +24,9 @@
    
 3. Launch the application:
    streamlit run app.py
+
+### Demo
+[https://qpossible.streamlit.app](https://qpossible.streamlit.app/)
    
 ### License
     This project is licensed under the Apache License 2.0
