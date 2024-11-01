@@ -1,0 +1,5 @@
+**/__pycache__/
+/llm_settings.json
+/db_settings.json
+/chat_history_sql.json
+/chat_history.json
